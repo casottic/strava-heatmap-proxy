@@ -1,7 +1,7 @@
 # strava-heatmap-proxy
 
 This is a simple [Cloudflare Worker](https://workers.dev) allowing
-unauthenticated access to personal and global Strava heatmaps. If you want to
+unauthenticated access to personal and global Strava heatmaps.  If you want to
 use your personal Strava heatmap in Gaia or Locus, this will give you a URL that
 you can use for that.
 
